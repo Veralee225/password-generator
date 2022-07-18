@@ -12,7 +12,7 @@ print("Password Generator")
 characters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@£$%^&*().,?#0123456789"
 
 number = input("Amount of passwords to generate: ")
-number - int(number)
+number = int(number)
 
 # Length helps you select the lenth of your password
 
