@@ -12,8 +12,8 @@ You will need python3 installed locally to run this project.
 
 ## Cloning the project
 
-You can clone this repo using this url:
-git clone <https://@github.com/Veralee225/password-generator.git>
+You can clone this repo using this url: git clone <https://@github.com/Veralee225/password-generator.git>
 
 cd password-generator
+
 python3 password.py
